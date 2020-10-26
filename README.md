@@ -1,3 +1,3 @@
 # Sample-html
-you can view:
+you can view here:
 https://reaperozuma.github.io/Sample/
